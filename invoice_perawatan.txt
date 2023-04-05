@@ -1,0 +1,25 @@
+--------------------------------------------
+SALON KECANTIKAN - INVOICE BOOKING PERAWATAN
+--------------------------------------------
+
+Jenis Perawatan   : Facial
+Tanggal Perawatan : 1
+Dokter  	  : Dokter_Faisal
+Waktu             : 13.00
+Biaya    	  : Rp 200000
+
+--------------------------------------------
+		TERIMA KASIH
+--------------------------------------------=============================================
+SALON KECANTIKAN - INVOICE BOOKING PERAWATAN
+=============================================
+
+Jenis Perawatan   : Facial
+Tanggal Perawatan : 12-12-2002
+Dokter  	  : Dokter_Faisal
+Waktu             : 13.00
+Biaya    	  : Rp 200000
+
+=============================================
+		TERIMA KASIH
+=============================================

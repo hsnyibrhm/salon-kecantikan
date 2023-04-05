@@ -1,0 +1,6 @@
+aaNivea;Body_Lotion;40;30000
+Innisfree_Bija_Trouble;Sabun_Cuci_Muka;73;55000
+Nature;Vitamin_Kulit;12;20000
+Biotin;Vitamin_Rambut;10;128000
+Verille;Obat_Totol_Jerawat;20;18000
+Mustika_Ratu;Body_Lotion;40;15000
